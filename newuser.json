@@ -1,0 +1,9 @@
+{
+    "title": "Mr",
+    "firstName": "George",
+    "lastName": "Costanza",
+    "role": "User",
+    "email": "george@costanza.com",
+    "password": "george-likes-spicy-chicken",
+    "confirmPassword": "george-likes-spicy-chicken"
+}
